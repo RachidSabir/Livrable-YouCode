@@ -33,7 +33,7 @@ L'objectif de ce projet est de réaliser une première exploration des données 
 - Chargement et inspection du dataset **dataset-sell4all.csv**
 - Résumé technique des données (nombre de lignes, colonnes, types) avec explication détaillée en Markdown
 - Statistiques descriptives : moyenne et médiane de l'âge et des dépenses clients
-- Médiane d'âge par pays (question bonus)
+- Médiane d'âge par pays
 - Visualisation des dépenses clients par pays (graphique à barres)
 - Nettoyage des données :
   - Suppression des clients ayant dépensé moins de 10 €
