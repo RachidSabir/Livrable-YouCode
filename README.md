@@ -56,8 +56,8 @@ Le notebook final est disponible dans **exploration_sell4all.ipynb**.
 
 3. **Cloner le dépôt**
    ```bash
-   git clone <url-du-depot>
-   cd <nom-du-dossier>
+   git clone https://github.com/RachidSabir/Livrable-YouCode.git
+   cd /Livrable-YouCode (chemin vers le dossier projet)
    ```
 
 4. **Créer et activer un environnement Python**
